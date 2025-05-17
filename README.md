@@ -61,6 +61,15 @@
    - 正确预测分析（true_analysis.png）：每个类别展示1个置信度最高的正确预测样本（如有），每行5个小图，自动换行，标题只显示类别名称和置信度，无坐标轴
 
 所有可视化图片均保存在`visualization_results`目录下。
+![eb70b2b8a88c9a785f069f994e5f634](https://github.com/user-attachments/assets/97545e8b-8324-4b84-9115-8895cdec4a66)
+![3ae27dbf4b028c62f3724024cd3442a](https://github.com/user-attachments/assets/88972918-cc56-478d-945e-eeb6c02bbcf5)
+![2f048586cbe415ccf21df9503bbd678](https://github.com/user-attachments/assets/e3191405-3788-429b-abbd-0a7a7d6b97b5)
+![f2faf63a3220d231fa94de250499a6f](https://github.com/user-attachments/assets/4221415f-ba61-4613-b1c9-b4c9cb91532b)
+![38e147425e40f38cbc21713c24c7b87](https://github.com/user-attachments/assets/75f85c93-e8ef-49ef-b53c-698c0e94d04d)
+<img width="696" alt="259d24063edb29a88e9e11cac6ab065" src="https://github.com/user-attachments/assets/1af90fd5-1589-4977-bfa3-c90cce126b86" />
+<img width="480" alt="cfa1c37520374b769f7521e671b7358" src="https://github.com/user-attachments/assets/d96276d1-f7f2-446d-8a39-165326ae8f6d" />
+
+
 
 如需自定义每类展示的样本数，可在`visualization.py`中调整`samples_per_class`参数。
 
@@ -75,6 +84,9 @@
 ## 桌面应用：PyQt5 图形界面（flows_app.py）
 
 本项目支持通过 PyQt5 桌面应用进行花卉图片识别，界面友好，操作简单。
+<img width="450" alt="cfd672eb8132c334f490cbd317f89aa" src="https://github.com/user-attachments/assets/ef8ffc1f-d2cc-42d6-aa39-19503ca43020" />
+<img width="450" alt="28b2dd44acd8f8f03b280d62235733b" src="https://github.com/user-attachments/assets/4d411218-e699-4467-8861-c289a3a46f22" />
+
 
 ### 使用方法
 
