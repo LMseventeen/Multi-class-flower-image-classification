@@ -85,7 +85,9 @@
 ## 桌面应用：PyQt5 图形界面（flows_app.py）
 
 本项目支持通过 PyQt5 桌面应用进行花卉图片识别，界面友好，操作简单。
-<img width="450" alt="28b2dd44acd8f8f03b280d62235733b" src="https://github.com/user-attachments/assets/4b95d9e7-7330-4fee-be57-698e04bcabad" />
+
+<img width="450" alt="28b2dd44acd8f8f03b280d62235733b" src="https://github.com/user-attachments/assets/7dd1bb43-0bd5-4fe5-bdfd-3cfdafd2a3e2" />
+
 
 
 
