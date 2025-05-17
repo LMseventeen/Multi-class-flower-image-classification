@@ -67,9 +67,8 @@
 ![f2faf63a3220d231fa94de250499a6f](https://github.com/user-attachments/assets/4221415f-ba61-4613-b1c9-b4c9cb91532b)
 ![38e147425e40f38cbc21713c24c7b87](https://github.com/user-attachments/assets/75f85c93-e8ef-49ef-b53c-698c0e94d04d)
 
-<img width="696" alt="259d24063edb29a88e9e11cac6ab065" src="https://github.com/user-attachments/assets/1af90fd5-1589-4977-bfa3-c90cce126b86" />
+<img width="696" alt="259d24063edb29a88e9e11cac6ab065" src="https://github.com/user-attachments/assets/5c7f7449-fd0b-4af3-a5d0-b3217a6773d2" />
 
-<img width="480" alt="cfa1c37520374b769f7521e671b7358" src="https://github.com/user-attachments/assets/d96276d1-f7f2-446d-8a39-165326ae8f6d" />
 
 
 
@@ -86,9 +85,8 @@
 ## 桌面应用：PyQt5 图形界面（flows_app.py）
 
 本项目支持通过 PyQt5 桌面应用进行花卉图片识别，界面友好，操作简单。
-<img width="450" alt="cfd672eb8132c334f490cbd317f89aa" src="https://github.com/user-attachments/assets/ef8ffc1f-d2cc-42d6-aa39-19503ca43020" />
+<img width="450" alt="28b2dd44acd8f8f03b280d62235733b" src="https://github.com/user-attachments/assets/4b95d9e7-7330-4fee-be57-698e04bcabad" />
 
-<img width="450" alt="28b2dd44acd8f8f03b280d62235733b" src="https://github.com/user-attachments/assets/4d411218-e699-4467-8861-c289a3a46f22" />
 
 
 ### 使用方法
