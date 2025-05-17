@@ -78,9 +78,10 @@
 ## 运行步骤
 1. 安装依赖：`pip install -r requirements.txt`
 2. 数据准备：运行`datasets.py`下载和划分数据
-3. 训练模型：`python train.py`
-4. 测试评估：`python evaluate.py`
-5. 可视化注意力：`python gradcam.py`
+3. 训练模型：`python train.py`如已经有best_model.pth，删除即可
+4. 绘制最佳模型的性能图再次运行：`python train.py`
+5. 测试评估：`python evaluate.py`
+6. 可视化注意力：`python gradcam.py`
 
 ## 桌面应用：PyQt5 图形界面（flows_app.py）
 
